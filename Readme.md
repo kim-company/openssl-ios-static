@@ -5,7 +5,7 @@ This repository helps everyone to build OpenSSL for iOS. OpenSSL is used in many
 Choose option 1 or option 2. Builds for `arm64` are for iOS devices and Apple Silicon CPUs, `x86_64` are for Intel CPU Macs and iOS Simulators on Intel Macs. 
 
 ### Option 1
-1. Use the precompiled static libraries we have compiled. Look into [static-build folder](static-builds) and download the version you need. 
+1. Use the precompiled static libraries we have compiled. Look into [static-build folder](static-builds/) and download the version you need. 
 
 ### Option 2
 1. Check the requirements
